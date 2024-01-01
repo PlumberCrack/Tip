@@ -53,7 +53,7 @@ def validate_input(text):
 #Window
 window = tk.Tk()
 window.title('To Insure Promptness')
-window.geometry('350x250')
+window.geometry('400x250')
 #-------------------------------------------------------
 #Total entry 
 entry_var = tk.StringVar()
